@@ -1,0 +1,16 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cherng",
+  "license": "ISC",
+  "dependencies": {
+        "express": "~2.5.9",
+        "newrelic": "~1.24.0",
+        "bugsnag": "~1.6.6"
+    }
+}
